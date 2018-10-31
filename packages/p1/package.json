@@ -1,20 +1,12 @@
 {
-  "name": "testcmpp1",
+  "name": "p1",
   "version": "1.0.2",
   "description": "this is test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://git.internal.gracenote.com/bjade/componentsRepo/tree/master/packages/p1"
-  },
-"publishConfig": {
-	    "access": "public",
-	    "registry": "git+https://git.internal.gracenote.com/bjade/componentsRepo.git",
-		"tag": "next"
-	  },
+  "repository": "https://github.com/bhushanjade/monorep/tree/master/packages/p1",
   "keywords": [],
   "author": "",
   "license": "ISC"
